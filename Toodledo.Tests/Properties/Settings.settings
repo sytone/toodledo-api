@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Toodledo.Tests.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="APPID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">UnitTests</Value>
+    </Setting>
+    <Setting Name="USERID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">td4889e880124df</Value>
+    </Setting>
+    <Setting Name="PASSWORD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tishri19</Value>
+    </Setting>
+    <Setting Name="EMAIL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">kenneth@lefebvre.us</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
